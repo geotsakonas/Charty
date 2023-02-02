@@ -1,4 +1,4 @@
-## Charty : Elementary Chart library for Compose
+## Charty : Elementary Chart library for Composeee
 
 ![Charty](img/charty-banner.png)
 
