@@ -2,7 +2,7 @@
 
 ![Charty](img/charty-banner.png)
 
-Chart Library built using Jetpack Compose and is highly customizable. Updates coming soon!
+Chart Library built using Jetpack Compose and is highly customizable. Updates coming soon.
 _Made with ❤️ for Android Developers by Himanshu_
 
 [![Github Followers](https://img.shields.io/github/followers/hi-manshu?label=Follow&style=social)](https://github.com/hi-manshu)
